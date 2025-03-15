@@ -65,6 +65,7 @@ services:
 networks:
   monitor-net:
     driver: bridge
+    name: monitor-net
 
 volumes:
   prometheus_data: {}

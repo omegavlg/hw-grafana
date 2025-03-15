@@ -15,9 +15,7 @@
 
 <img src = "img/01.png" width = 100%>
 
-
-
-
+<img src = "img/02.png" width = 100%>
 
 ## Задание 2
 
